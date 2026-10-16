@@ -1,3 +1,7 @@
+
+# This is the internal web platform for a station profiling student interactive work for OCADU Graphic Design's 2026 Look Inside event. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
