@@ -11,6 +11,7 @@
   right: 0;
   bottom: 0;
   z-index: 2;
+  box-sizing: border-box;
   width: var(--menu-width);
   overflow-y: auto;
   background: #ffffff;
