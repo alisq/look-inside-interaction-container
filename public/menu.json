@@ -4,10 +4,6 @@
     "url": "https://magfoto.dev/gd.github.io"
   },
   {
-    "title": "Graphic Design 1",
-    "url": "https://magfoto.dev/gd.github.io/gd1"
-  },
-  {
     "title": "Graphic Design 2",
     "url": "https://magfoto.dev/gd.github.io/gd2"
   },
@@ -42,6 +38,13 @@
     "year": 2026,
     "description":"An archive of film formats that have emerged over a century of cinema history. ",
     "url": "https://stevelee0130.github.io/GD_Live_Site/"
+  },
+  {
+    "title": "2025 OCADU GD",
+    "student": "Aaryan Pashine & Omama Mahmood",
+    "year": 2025,
+    "description":"Work from the 2025 graduating class.",
+    "url": "https://2025.ocadu.gd/"
   }
 ]
 
