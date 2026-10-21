@@ -1,14 +1,18 @@
 [
   {
-    "title": "RM Practices",
-    "url": "https://alisq.github.io/Practices/"
+    "title": "GD INTERACTION",
+    "url": "https://magfoto.dev/gd.github.io"
   },
   {
-    "title": "OCADU",
-    "url": "https://ocadu.ca/"
+    "title": "Graphic Design 1",
+    "url": "https://magfoto.dev/gd.github.io/gd1"
   },
   {
-    "title": "Ali's Portfolio",
-    "url": "https://portfolio.iamasq.works/"
+    "title": "Graphic Design 2",
+    "url": "https://magfoto.dev/gd.github.io/gd2"
+  },
+  {
+    "title": "Interactive Media: Web",
+    "url": "https://magfoto.dev/gd.github.io/imw"
   }
 ]
