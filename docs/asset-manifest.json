@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.fabf1f35.css",
+    "main.css": "/static/css/main.f46500f8.css",
     "main.js": "/static/js/main.a9f77f48.js",
     "static/js/453.632249c6.chunk.js": "/static/js/453.632249c6.chunk.js",
+    "static/media/standard-book-italic-webfont.woff": "/static/media/standard-book-italic-webfont.5c4454fac47fa6a4bef3.woff",
+    "static/media/standard-bold-italic-webfont.woff": "/static/media/standard-bold-italic-webfont.9165b5beffda1ef3f641.woff",
+    "static/media/standard-book-webfont.woff": "/static/media/standard-book-webfont.2d6eb0bbb3e8f1a3f53d.woff",
+    "static/media/standard-bold-webfont.woff": "/static/media/standard-bold-webfont.5a15a70473354646637e.woff",
+    "static/media/standard-book-italic-webfont.woff2": "/static/media/standard-book-italic-webfont.7cf830b1f3b0b6730353.woff2",
+    "static/media/standard-bold-italic-webfont.woff2": "/static/media/standard-bold-italic-webfont.b475add3570bb960f263.woff2",
+    "static/media/standard-book-webfont.woff2": "/static/media/standard-book-webfont.ab1a429cad6129ea705e.woff2",
+    "static/media/standard-bold-webfont.woff2": "/static/media/standard-bold-webfont.d8bba96555c0993fa9ee.woff2",
     "index.html": "/index.html",
-    "main.fabf1f35.css.map": "/static/css/main.fabf1f35.css.map",
+    "main.f46500f8.css.map": "/static/css/main.f46500f8.css.map",
     "main.a9f77f48.js.map": "/static/js/main.a9f77f48.js.map",
     "453.632249c6.chunk.js.map": "/static/js/453.632249c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fabf1f35.css",
+    "static/css/main.f46500f8.css",
     "static/js/main.a9f77f48.js"
   ]
 }
