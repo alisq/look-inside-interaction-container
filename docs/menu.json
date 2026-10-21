@@ -1,0 +1,50 @@
+[
+  {
+    "title": "GD INTERACTION",
+    "url": "https://magfoto.dev/gd.github.io"
+  },
+  {
+    "title": "Graphic Design 2",
+    "url": "https://magfoto.dev/gd.github.io/gd2"
+  },
+  {
+    "title": "Interactive Media: Web",
+    "url": "https://magfoto.dev/gd.github.io/imw"
+  },
+  {
+    "title": "Purple Pages",
+    "student": "Lucas Kuznecov",
+    "year": 2026,
+    "description": "A filterable and sortable index of Toronto tattoo artists",
+    "url": "https://lukask11.github.io/resourceweb/"
+  },
+  {
+    "title": "Memory Foam",
+    "student": "Felicia Hwang",
+    "year": 2026,
+    "description": "An archive of the lasting effects on earth left by different types of pressure",
+    "url": "https://fhwang05.github.io/GD2/MEMORYFOAM/"
+  },
+  {
+    "title": "(in)Complete",
+    "student": "Andrew Kozak",
+    "year": 2026,
+    "description": "A dynamic map of ongoing restorations of historic buildings.",
+    "url": "https://andrewskozak.github.io/incomplete/"
+  },
+  {
+    "title": "Kino Archive",
+    "student": "Steve Lee",
+    "year": 2026,
+    "description":"An archive of film formats that have emerged over a century of cinema history. ",
+    "url": "https://stevelee0130.github.io/GD_Live_Site/"
+  },
+  {
+    "title": "2025 OCADU GD",
+    "student": "Aaryan Pashine & Omama Mahmood",
+    "year": 2025,
+    "description":"Work from the 2025 graduating class.",
+    "url": "https://2025.ocadu.gd/"
+  }
+]
+
