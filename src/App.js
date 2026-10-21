@@ -61,7 +61,10 @@ function App() {
                   setMenuOpen(false);
                 }}
               >
-                {item.title}
+                <div><strong>{item.title}</strong></div>
+                <div>{item.student !== "" ? item.student : null}</div>
+                <div>{item.year !== "" ? item.year : null}</div>
+                <p className="description"><em>{item.description !== "" ? item.description : null}</em></p>
               </button>
             </li>
           ))}
