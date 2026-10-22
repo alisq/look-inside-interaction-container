@@ -4,14 +4,6 @@
     "url": "https://magfoto.dev/gd.github.io"
   },
   {
-    "title": "Graphic Design 2",
-    "url": "https://magfoto.dev/gd.github.io/gd2"
-  },
-  {
-    "title": "Interactive Media: Web",
-    "url": "https://magfoto.dev/gd.github.io/imw"
-  },
-  {
     "title": "Purple Pages",
     "student": "Lucas Kuznecov",
     "year": 2026,
@@ -29,7 +21,7 @@
     "title": "(in)Complete",
     "student": "Andrew Kozak",
     "year": 2026,
-    "description": "A dynamic map of ongoing restorations of historic buildings.",
+    "description": "A dynamic map of ongoing restorations of historic buildings",
     "url": "https://andrewskozak.github.io/incomplete/"
   },
   {
@@ -43,8 +35,32 @@
     "title": "2025 OCADU GD",
     "student": "Aaryan Pashine & Omama Mahmood",
     "year": 2025,
-    "description":"Work from the 2025 graduating class.",
+    "description":"Work from the 2025 graduating class",
     "url": "https://2025.ocadu.gd/"
+  },
+  {
+    "title": "JUNKS",
+    "student": "Golbarg Khalili",
+    "year": 2026,
+    "description":"An archive of ephmera",
+    "url": "https://golbargkhalili.github.io/JUNKS/"
+  },
+  {
+    "title": "Stems",
+    "student": "Linus Belanger",
+    "year": 2026,
+    "description":"A library of free music production tools",
+    "url": "https://linusbelanger.github.io/stems/index.html"
+  },
+  {
+    "title": "Memory Capsule",
+    "student": "Rae Mano",
+    "year": 2026,
+    "description":"A digital simulation of a personal archive",
+    "url": "https://raem77.github.io/-MemoryCapsule-/index.html"
   }
 ]
+
+
+
 

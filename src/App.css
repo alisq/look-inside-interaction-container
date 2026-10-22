@@ -1,6 +1,6 @@
 .app {
   height: 100%;
-  --menu-width: 25vw;
+  --menu-width: 50vw;
   --menu-duration: 0.35s;
   --menu-ease: ease;
 }
@@ -13,10 +13,10 @@
   z-index: 2;
   box-sizing: border-box;
   width: var(--menu-width);
-  overflow-y: auto;
-  background: #ffffff;
-  color: #000000;
-  border-left: 1px solid #000000;
+  overflow: hidden;
+  background: #e7e5e4;
+  color: #292524;
+  border-left: 1px solid #292524;
   transform: translateX(100%);
   visibility: hidden;
   pointer-events: none;
@@ -31,13 +31,20 @@
 }
 
 .menu ul {
+  box-sizing: border-box;
+  height: 100%;
   margin: 0;
   padding: 12px 0;
   list-style: none;
+  column-count: 3;
+  column-gap: 1em;
+  column-fill: auto;
+  column-rule: 1px solid #292524;
 }
 
 .menu li {
-  border-bottom: 1px solid #000000;
+  break-inside: avoid;
+  border-bottom: 1px solid #292524;
 }
 
 .menu-item {
@@ -70,8 +77,8 @@
 }
 
 p.description {
-  margin:0 0 0 3rem;
-  font-size:0.8em;
+  margin: 0 0 0.5rem 3rem;
+  font-size: 0.8em;
 }
 
 .logo-toggle {
