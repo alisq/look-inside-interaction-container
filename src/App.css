@@ -30,14 +30,25 @@
   transition: transform var(--menu-duration) var(--menu-ease), visibility 0s linear 0s;
 }
 
+.menu::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: calc((200% - 1px) / 3);
+  width: 1px;
+  background: #292524;
+  pointer-events: none;
+}
+
 .menu ul {
   box-sizing: border-box;
   height: 100%;
   margin: 0;
-  padding: 12px 0;
+  padding: 0;
   list-style: none;
   column-count: 3;
-  column-gap: 1em;
+  column-gap: 1px;
   column-fill: auto;
   column-rule: 1px solid #292524;
 }
@@ -59,13 +70,15 @@
   cursor: pointer;
 }
 
-.menu-item div {
-  transition: margin 0.1s;
+.menu-item:hover,
+.menu-item.is-active {
+  background: #292524;
+  color: #e7e5e4;
 }
 
-.menu-item:hover div,
-.menu-item.is-active div {
-  margin-left: 3rem;
+.menu li:has(.menu-item:hover),
+.menu li:has(.menu-item.is-active) {
+  border-bottom-color: #e7e5e4;
 }
 
 .frame {
